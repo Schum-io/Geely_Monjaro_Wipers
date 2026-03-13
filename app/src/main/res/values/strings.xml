@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Monjaro Wipers</string>
+    <string name="wiper_service_widget_content_description">Wiper service mode toggle</string>
+    <string name="wiper_service_label">Сервисный режим дворников</string>
+    <string name="wiper_service_on">Включён</string>
+    <string name="wiper_service_off">Выключен</string>
+</resources>
