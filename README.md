@@ -4,11 +4,16 @@
 [![Downloads](https://img.shields.io/github/downloads/Schum-io/Geely_Monjaro_Wipers/total)](https://github.com/Schum-io/Geely_Monjaro_Wipers/releases)
 [![Download Latest](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/Schum-io/Geely_Monjaro_Wipers/releases)
 
-<img src="docs/img/monjaro_rest.jpg" width="600"/>
+<table><tr>
+<td><img src="docs/img/monjaro_rest.jpg" width="400"/></td>
+<td>
 
 > [!WARNING]
 > Приложение тестировалось **исключительно на рестайлинговой модели Geely Monjaro**.
 > Работоспособность на дорестайлинговых версиях **не гарантируется**.
+
+</td>
+</tr></table>
 
 **Monjaro Wipers** — приложение для **Geely Monjaro Рестайлинг**, которое позволяет переводить стеклоочистители в сервисное положение одним нажатием — через приложение или виджет на главном экране.
 
