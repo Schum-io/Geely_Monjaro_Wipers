@@ -1,7 +1,6 @@
 # Monjaro Wipers
 
 [![Release](https://img.shields.io/github/v/release/Schum-io/Geely_Monjaro_Wipers)](https://github.com/Schum-io/Geely_Monjaro_Wipers/releases)
-[![Downloads](https://img.shields.io/github/downloads/Schum-io/Geely_Monjaro_Wipers/total)](https://github.com/Schum-io/Geely_Monjaro_Wipers/releases)
 [![Download Latest](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/Schum-io/Geely_Monjaro_Wipers/releases)
 
 <table><tr>
